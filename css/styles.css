@@ -80,7 +80,7 @@ h1 {
 
 .unsaved {
     background-color: #40ad40;
-    animation: scale 1s infinite ease-in-out;
+    animation: pulse 1s infinite ease-in-out;
 }
 
 @keyframes fadeInUp {
@@ -90,7 +90,7 @@ h1 {
     }
 }
 
-@keyframes scale {
+@keyframes pulse {
     50% {
         transform: scale(1.07);
     }
