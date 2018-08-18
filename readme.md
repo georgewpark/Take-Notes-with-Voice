@@ -3,5 +3,7 @@ This project demonstrates how the JavaScript speech recognition API can be used 
 
 The speech recognition API is currently only [supported by Chrome](https://caniuse.com/#search=speech%20recognition).
 
+![Take Notes with Voice Demo](https://github.com/georgewpark/Take-Notes-with-Voice/blob/master/demo-gif.gif "Take Notes with Voice Demo")
+
 ## Live Demo
 A live demo is available on [CodePen](https://codepen.io/GeorgePark/pen/jpovrm).
