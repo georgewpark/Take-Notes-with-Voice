@@ -11,7 +11,7 @@ body {
     font-size: 25px;
     line-height: 1.5;
     color: #222;
-    background-color: #ebcf82;
+    background-image: linear-gradient(#efd798, #ebcf82);
     text-align: center;
     padding: 20px;
 }
